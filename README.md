@@ -22,7 +22,7 @@ GitData.AI's documentation site provides comprehensive guides, API references, a
 2. Install dependencies:
 > npm install
 3. Running the Development Server
-> npm start
+> npm run start
 
 Congratulations! Visit http://localhost:3000 to view the site in your browser.
 
