@@ -19,8 +19,10 @@ GitData.AI's documentation site provides comprehensive guides, API references, a
 > git clone https://github.com/GitDataAI/docs.git
 
 > cd docs
+
 2. Install dependencies:
 > npm install
+
 3. Running the Development Server
 > npm run start
 
@@ -30,6 +32,7 @@ Congratulations! Visit http://localhost:3000 to view the site in your browser.
 
 To create a production build:
 > npm run build
+
 The build output will be located in the `build/` directory.
 
 
