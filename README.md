@@ -1,14 +1,37 @@
-# Website
+# GitData.AI Documentation Site
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository hosts the source code for GitData.AI's documentation site, built using [Docusaurus](https://docusaurus.io/).
 
-## Running the development server
-To preview your changes as you edit the files, you can run a local development server that will serve your website and reflect the latest changes.
+## Project Overview
+
+GitData.AI's documentation site provides comprehensive guides, API references, and tutorials for using GitData.AI's tools and services.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14.x or higher)
+- npm (v6.x or higher)
+
+### Installation
+
+1. Clone the repository:
+> git clone https://github.com/GitDataAI/docs.git
+> cd docs
+2. Install dependencies:
+> npm install
+3. Running the Development Server
+> npm start
+
+Congratulations! Visit http://localhost:3000 to view the site in your browser.
+
+### Building the Site
+
+To create a production build:
+> npm run build
+The build output will be located in the `build/` directory.
 
 
-> cd docs  
-> npm run start
+## Contact
 
-By default, a browser window will open at http://localhost:3000.
-
-Congratulations! 
+For questions or support, contact info@gitdata.ai.
