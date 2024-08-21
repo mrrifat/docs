@@ -17,6 +17,7 @@ GitData.AI's documentation site provides comprehensive guides, API references, a
 
 1. Clone the repository:
 > git clone https://github.com/GitDataAI/docs.git
+
 > cd docs
 2. Install dependencies:
 > npm install
